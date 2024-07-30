@@ -77,4 +77,8 @@ Flight Status Notification Page
 Successfully Sent Page
 ![image (3)](https://github.com/user-attachments/assets/bb80c5af-ea39-43d1-af45-90265be7c686)
 
+Email Notification
+![image](https://github.com/user-attachments/assets/b94cadbe-d7aa-4ec0-8914-807f17b28c3b)
+
+
 
