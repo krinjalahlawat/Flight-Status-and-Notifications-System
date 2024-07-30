@@ -68,3 +68,13 @@ Click on the "Send Flight Status to Email" button.
 Welcome Page
 ![image (1)](https://github.com/user-attachments/assets/1be2ffcd-3008-4b9b-8f21-34bd3414209f)
 
+Flight Status Page
+![image (2)](https://github.com/user-attachments/assets/a93966f8-1acf-4b84-89a9-288570a858c7)
+
+Flight Status Notification Page
+![6142979973170969642](https://github.com/user-attachments/assets/25ad41d7-49d3-4d2a-9a43-2ff97dbaf29f)
+
+Successfully Sent Page
+![image (3)](https://github.com/user-attachments/assets/bb80c5af-ea39-43d1-af45-90265be7c686)
+
+
