@@ -1,13 +1,16 @@
 𝐅𝐥𝐢𝐠𝐡𝐭 𝐒𝐭𝐚𝐭𝐮𝐬 𝐍𝐨𝐭𝐢𝐟𝐢𝐜𝐚𝐭𝐢𝐨𝐧 𝐒𝐲𝐬𝐭𝐞𝐦
 Overview
+
 The Flight Status Notification System is a web application that enables users to check real-time flight statuses and receive notifications about flight updates via email.
 This application utilizes Java Servlets for the back-end logic, HTML and CSS for the front-end, and integrates with MySQL and JavaMail for data management and email notifications.
+
 
 Features
 Check Flight Status: View the current status of flights in a tabular format.
 Email Notifications: Send flight status information to a specified email address.
 User-Friendly Interface: Simple and intuitive design with responsive layout.
 Tech Stack
+
 Front End:
 HTML
 CSS (for styling and layout)
@@ -24,7 +27,7 @@ JavaMail API (for email functionality)
 
 Getting Started
 Prerequisites
-Before you begin, ensure you have the following installed:
+Before you begin, 𝙚𝙣𝙨𝙪𝙧𝙚 𝙮𝙤𝙪 𝙝𝙖𝙫𝙚 𝙩𝙝𝙚 𝙛𝙤𝙡𝙡𝙤𝙬𝙞𝙣𝙜 𝙞𝙣𝙨𝙩𝙖𝙡𝙡𝙚𝙙:
 Java Development Kit (JDK)
 Apache Tomcat or another servlet container
 MySQL database
@@ -78,7 +81,7 @@ Fʟɪɢʜᴛ Sᴛᴀᴛᴜs Nᴏᴛɪꜰɪᴄᴀᴛɪᴏɴ Pᴀɢᴇ
 Sᴜᴄᴄᴇssꜰᴜʟʟʏ Sᴇɴᴛ Pᴀɢᴇ
 ![image (3)](https://github.com/user-attachments/assets/bb80c5af-ea39-43d1-af45-90265be7c686)
 
-Email Notification
+Eᴍᴀɪʟ Nᴏᴛɪꜰɪᴄᴀᴛɪᴏɴ
 ![image](https://github.com/user-attachments/assets/b94cadbe-d7aa-4ec0-8914-807f17b28c3b)
 
 
